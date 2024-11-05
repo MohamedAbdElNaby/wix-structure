@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "18.3.1",
     "react-native": "0.76.1",
-    "react-native-navigation": "^7.40.3"
+    "react-native-navigation": "github:MohamedAbdElNaby/react-native-navigation"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
